@@ -1,0 +1,22 @@
+# data and results stay on the server
+analysis/
+Raw_data/
+raw_data/
+Genomes/
+genomes/
+*.fq.gz
+*.fastq.gz
+*.bam
+*.bai
+*.sam
+*.zip
+*.tar.gz
+# R / Python / OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.DS_Store
+nohup.out
+*.log

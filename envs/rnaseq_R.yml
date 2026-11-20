@@ -1,0 +1,25 @@
+name: rnaseq_R
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - bioconductor-deseq2
+  - r-ashr
+  - r-ggplot2
+  - r-ggrepel
+  - r-pheatmap
+  - r-rcolorbrewer
+  - r-openxlsx
+  - r-upsetr
+  - r-optparse
+  - r-data.table
+  - bioconductor-fgsea
+  - r-venndiagram
+  - r-patchwork
+  - r-ggraph
+  - r-igraph
+  - r-ragg
+  - r-systemfonts
+  - r-fontliberation
+  - r-scales

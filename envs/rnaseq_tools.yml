@@ -1,0 +1,17 @@
+name: rnaseq_tools
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - openpyxl
+  - fastqc=0.12.1
+  - fastp=0.23.4
+  - star=2.7.11b
+  - samtools=1.20
+  - subread=2.0.6
+  - sortmerna=4.3.7
+  - multiqc
+  - pigz
+  - ncbi-datasets-cli

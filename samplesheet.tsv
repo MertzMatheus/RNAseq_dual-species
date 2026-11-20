@@ -1,0 +1,28 @@
+sample	folder	description	group	isolate	culture	species	replicate
+LR1	LR1	C. albicans	Calb_mono	none	mono	Calb	1
+LR2	LR2	C. albicans	Calb_mono	none	mono	Calb	2
+LR3	LR3	C. albicans	Calb_mono	none	mono	Calb	3
+LR4	LR4	S. aureus JE2	JE2_mono	JE2	mono	Saur	1
+LR5	LR5	S. aureus JE2	JE2_mono	JE2	mono	Saur	2
+LR6	LR6	S. aureus JE2	JE2_mono	JE2	mono	Saur	3
+LR7	LR7	S. aureus CI19	CI19_mono	CI19	mono	Saur	1
+LR8	LR8	S. aureus CI19	CI19_mono	CI19	mono	Saur	2
+LR9	LR9	S. aureus CI19	CI19_mono	CI19	mono	Saur	3
+LR10	LR10	S. aureus S5	S5_mono	S5	mono	Saur	1
+LR11	LR11	S. aureus S5	S5_mono	S5	mono	Saur	2
+LR12	LR12	S. aureus S5	S5_mono	S5	mono	Saur	3
+LR13	LR13	S. aureus CI5	CI5_mono	CI5	mono	Saur	1
+LR14	LR14	S. aureus CI5	CI5_mono	CI5	mono	Saur	2
+LR15	LR15	S. aureus CI5	CI5_mono	CI5	mono	Saur	3
+LR16	LR16	C. albicans + JE2	Calb_JE2	JE2	dual	Calb+Saur	1
+LR17	LR17	C. albicans + JE2	Calb_JE2	JE2	dual	Calb+Saur	2
+LR18	LR18	C. albicans + JE2	Calb_JE2	JE2	dual	Calb+Saur	3
+LR19	LR19	C. albicans + CI19	Calb_CI19	CI19	dual	Calb+Saur	1
+LR20	LR20	C. albicans + CI19	Calb_CI19	CI19	dual	Calb+Saur	2
+LR21	LR21	C. albicans + CI19	Calb_CI19	CI19	dual	Calb+Saur	3
+LR22	LR22	C. albicans + S5	Calb_S5	S5	dual	Calb+Saur	1
+LR23	LR23	C. albicans + S5	Calb_S5	S5	dual	Calb+Saur	2
+LR24	LR24	C. albicans + S5	Calb_S5	S5	dual	Calb+Saur	3
+LR25	LR25	C. albicans + CI5	Calb_CI5	CI5	dual	Calb+Saur	1
+LR26	LR26	C. albicans + CI5	Calb_CI5	CI5	dual	Calb+Saur	2
+LR27	LR27	C. albicans + CI5	Calb_CI5	CI5	dual	Calb+Saur	3
